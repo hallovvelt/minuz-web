@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "services": "Hizmetler",
+    "portfolio": "Referanslar",
+    "pricing": "Fiyatlar",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "badge": "Premium Web Tasarım",
+    "t1": "Müşterileriniz arıyor.",
+    "t2": "Sizi buluyor mu?",
+    "sub": "Yerel işletmeler için gerçekten işe yarayan web siteleri geliştiriyoruz — sürüş okulları, kuaförler, restoranlar ve daha fazlası.",
+    "cta1": "Örneğimi gör",
+    "cta2": "Fiyatları gör",
+    "trust": ["7 günde hazır", "30 gün iptal hakkı", "0€ kurulum ücreti"]
+  },
+  "features": {
+    "label": "Neden MINUZ",
+    "h2": "İşletmenizin ihtiyacı olan her şey.",
+    "p": "Şablon yok. Uzlaşma yok. Her web sitesi bireysel olarak inşa edilir.",
+    "cards": [
+      { "num": "7",   "unit": "Gün",       "title": "Bir haftada hazır",           "desc": "İlk görüşmeden canlı yayına — yedi iş gününden kısa sürede." },
+      { "num": "99",  "unit": "PageSpeed", "title": "Ultra hızlı yükleme",          "desc": "Daha iyi Google sıralaması ve daha fazla müşteri için maksimum hız." },
+      { "num": "24s", "unit": "Destek",    "title": "Her zaman yanınızdayız",       "desc": "Kişisel iletişim noktası. Güncellemeler ve değişiklikler dahil." }
+    ]
+  },
+  "portfolio": {
+    "label": "Referanslar",
+    "h2": "Sektörünüzü seçin.",
+    "p": "İşletmeniz için bir web sitesinin nasıl görünebileceğini görün — bireysel, modern, ikna edici.",
+    "categories": [
+      { "id": "fahrschule", "icon": "🚗", "label": "Sürüş Okulu",  "hint": "Örneği gör →" },
+      { "id": "friseur",    "icon": "✂️", "label": "Kuaför & Salon","hint": "Örneği gör →" },
+      { "id": "restaurant", "icon": "🍽️", "label": "Restoran & Kafe","hint": "Örneği gör →" },
+      { "id": "boutique",   "icon": "🛍️", "label": "Butik & Moda",  "hint": "Örneği gör →" },
+      { "id": "fitness",    "icon": "💪", "label": "Spor Merkezi",  "hint": "Örneği gör →" }
+    ],
+    "modalCta": "İşletmem için talep et →",
+    "close": "Kapat",
+    "demoBtn": "Tam demo ↗"
+  },
+  "steps": {
+    "label": "Nasıl Çalışır",
+    "h2": "3 adımda online.",
+    "items": [
+      { "n": "01", "t": "İlk Görüşme",         "d": "Ücretsiz danışmanlık. İşletmenizi tanıyoruz." },
+      { "n": "02", "t": "Tasarım & Geliştirme", "d": "Hayalinizdeki web sitesini birkaç günde inşa ediyoruz." },
+      { "n": "03", "t": "Yayın & Büyüme",       "d": "Canlı, optimize edilmiş ve yeni müşterilere hazır." }
+    ]
+  },
+  "testimonials": {
+    "label": "Müşteri Yorumları",
+    "h2": "Müşterilerimiz ne diyor."
+  },
+  "pricing": {
+    "label": "Şeffaf Fiyatlar",
+    "h2": "Rakipsiz bir teklif.",
+    "p": "Gizli maliyet yok. Tam esneklik.",
+    "note": "* Yıllık faturalandırmaya göre. Tüm fiyatlara KDV dahil değildir."
+  },
+  "faq": {
+    "label": "SSS",
+    "h2": "Sık sorulan sorular.",
+    "items": [
+      { "q": "Web sitesi oluşturma ne kadar sürer?",              "a": "İlk görüşmeden canlı yayına kadar 5 ile 10 iş günü arasında. Özel gereksinimleri olan projeler için bunu önceden konuşuruz." },
+      { "q": "Gizli maliyet var mı?",                            "a": "Hayır. Aylık fiyat tek ödemenizdir. Yeni müşteriler için kurulum ücreti de tamamen kaldırılmıştır." },
+      { "q": "Web sitesini sonradan kendim düzenleyebilir miyim?","a": "Evet. Metinler, görseller ve açılış saatleri için basit bir panele erişiminiz olur — teknik bilgi gerekmez." },
+      { "q": "İptal etmek istediğimde ne olur?",                  "a": "30 günlük ihbar süresi. Evrak işi yok, komplikasyon yok. Web siteniz son güne kadar çevrimiçi kalır." }
+    ]
+  },
+  "contact": {
+    "label": "İletişim",
+    "h2": "Yazın.\nİnşa Edelim.",
+    "p": "Risk yok. Sözleşme yok. Sadece bir talep — ve neyin mümkün olduğunu gösterelim.",
+    "stepsTitle": "Sonra ne olur?",
+    "steps": [
+      { "t": "24 saat içinde yanıt veriyoruz", "d": "Chatbot değil. Ekibimizden gerçek bir kişi." },
+      { "t": "Ücretsiz ilk görüşme (30 dk)",   "d": "İşletmenizi öğreniyor ve ilk fikirleri paylaşıyoruz." },
+      { "t": "48 saat içinde teklifiniz",       "d": "Bireysel. Şeffaf. Sürprizsiz." }
+    ],
+    "orTitle": "Ya da doğrudan:",
+    "nameLabel": "Ad / Firma",              "namePlaceholder": "örn. Schmidt Fırın...",
+    "emailLabel": "E-Posta Adresi",         "emailPlaceholder": "ornek@firma.com",
+    "phoneLabel": "Telefon (isteğe bağlı)", "phonePlaceholder": "+49 xxx xxx xxx",
+    "branchLabel": "Sektörünüz",
+    "branches": ["Seçiniz...", "Sürüş Okulu", "Kuaför & Salon", "Restoran & Kafe", "Butik & Moda", "Spor Merkezi", "Otel & Pansiyon", "Diğer"],
+    "msgLabel": "Mesaj (isteğe bağlı)", "msgPlaceholder": "İşletmeniz hakkında bize anlatın...",
+    "submit": "Talep Gönder",
+    "successTitle": "Talep alındı!",
+    "successDesc": "24 saat içinde size döneceğiz. Söz.",
+    "errorDesc": "Bir şeyler ters gitti. Lütfen tekrar deneyin.",
+    "newRequest": "Yeni talep"
+  },
+  "footer": "Tüm hakları saklıdır."
+}

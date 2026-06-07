@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Premium Web Design",
+    "t1": "Your customers are searching.",
+    "t2": "Can they find you?",
+    "sub": "We build websites that really work for local businesses — driving schools, hair salons, restaurants and more.",
+    "cta1": "See my example",
+    "cta2": "View pricing",
+    "trust": ["Ready in 7 days", "30-day cancellation right", "€0 setup fee"]
+  },
+  "features": {
+    "label": "Why MINUZ",
+    "h2": "Everything your business needs.",
+    "p": "No template. No compromise. Every website is built individually.",
+    "cards": [
+      { "num": "7",   "unit": "Days",      "title": "Ready within a week",      "desc": "From initial call to live launch — in less than seven business days." },
+      { "num": "99",  "unit": "PageSpeed", "title": "Ultra-fast loading",        "desc": "Maximum loading speed for better Google ranking and more customers." },
+      { "num": "24h", "unit": "Support",   "title": "Always here for you",       "desc": "Personal contact person. Updates and changes included." }
+    ]
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "h2": "Choose your industry.",
+    "p": "See what a website for your business could look like — individual, modern, convincing.",
+    "categories": [
+      { "id": "fahrschule", "icon": "🚗", "label": "Driving School",    "hint": "View example →" },
+      { "id": "friseur",    "icon": "✂️", "label": "Hair & Beauty",     "hint": "View example →" },
+      { "id": "restaurant", "icon": "🍽️", "label": "Restaurant & Café", "hint": "View example →" },
+      { "id": "boutique",   "icon": "🛍️", "label": "Boutique & Fashion","hint": "View example →" },
+      { "id": "fitness",    "icon": "💪", "label": "Fitness Studio",    "hint": "View example →" }
+    ],
+    "modalCta": "Request for my business →",
+    "close": "Close",
+    "demoBtn": "Full demo ↗"
+  },
+  "steps": {
+    "label": "How it works",
+    "h2": "Online in 3 steps.",
+    "items": [
+      { "n": "01", "t": "Initial Call",           "d": "Free consultation. We get to know your business." },
+      { "n": "02", "t": "Design & Development",   "d": "We build your dream website in just a few days." },
+      { "n": "03", "t": "Launch & Growth",         "d": "Live, optimized and ready for new customers." }
+    ]
+  },
+  "testimonials": {
+    "label": "Customer Reviews",
+    "h2": "What our customers say."
+  },
+  "pricing": {
+    "label": "Transparent Pricing",
+    "h2": "An unbeatable offer.",
+    "p": "No hidden costs. Full flexibility.",
+    "note": "* Based on annual billing. All prices excl. VAT."
+  },
+  "faq": {
+    "label": "FAQ",
+    "h2": "Common questions.",
+    "items": [
+      { "q": "How long does website creation take?",     "a": "Between 5 and 10 business days — from initial call to live launch. For projects with special requirements, we discuss this beforehand." },
+      { "q": "Are there hidden costs?",                  "a": "No. The monthly price is all you pay. For new customers, the setup fee is also waived completely." },
+      { "q": "Can I edit the website myself later?",     "a": "Yes. You get access to a simple dashboard for texts, images and opening hours — no technical knowledge required." },
+      { "q": "What happens if I want to cancel?",        "a": "30-day notice period. No paperwork, no complications. Your website stays online until the last day." }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "h2": "Get in touch.\nWe'll build it.",
+    "p": "No risk. No contract. Just one inquiry — and we'll show you what's possible.",
+    "stepsTitle": "What happens next?",
+    "steps": [
+      { "t": "We respond within 24 hours",        "d": "No chatbot. A real person from our team." },
+      { "t": "Free initial call (30 min.)",        "d": "We learn about your business and show first ideas." },
+      { "t": "Your offer within 48 hours",         "d": "Individual. Transparent. No surprises." }
+    ],
+    "orTitle": "Or directly:",
+    "nameLabel": "Name / Company",    "namePlaceholder": "e.g. Schmidt Bakery...",
+    "emailLabel": "Email Address",    "emailPlaceholder": "example@company.com",
+    "phoneLabel": "Phone (optional)", "phonePlaceholder": "+49 xxx xxx xxx",
+    "branchLabel": "Your Industry",
+    "branches": ["Please select...", "Driving School", "Hair & Beauty", "Restaurant & Café", "Boutique & Fashion", "Fitness Studio", "Hotel & Lodging", "Other"],
+    "msgLabel": "Message (optional)", "msgPlaceholder": "Tell us about your business...",
+    "submit": "Send Request",
+    "successTitle": "Request received!",
+    "successDesc": "We will get back to you within 24 hours. Promise.",
+    "errorDesc": "Something went wrong. Please try again.",
+    "newRequest": "New request"
+  },
+  "footer": "All rights reserved."
+}

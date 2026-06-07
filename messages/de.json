@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "services": "Leistungen",
+    "portfolio": "Referenzen",
+    "pricing": "Preise",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "Premium Webdesign",
+    "t1": "Ihre Kunden suchen.",
+    "t2": "Finden sie Sie?",
+    "sub": "Wir entwickeln Websites, die für lokale Geschäfte wirklich funktionieren — für Fahrschulen, Friseure, Restaurants und mehr.",
+    "cta1": "Mein Beispiel sehen",
+    "cta2": "Preise ansehen",
+    "trust": ["Fertig in 7 Tagen", "30 Tage Kündigungsrecht", "0€ Einrichtungsgebühr"]
+  },
+  "features": {
+    "label": "Warum MINUZ",
+    "h2": "Alles, was Ihr Geschäft braucht.",
+    "p": "Kein Template. Kein Kompromiss. Jede Website wird individuell gebaut.",
+    "cards": [
+      { "num": "7",   "unit": "Tage",      "title": "Fertig in einer Woche",   "desc": "Von Erstgespräch bis zum Live-Launch — in weniger als sieben Werktagen." },
+      { "num": "99",  "unit": "PageSpeed", "title": "Ultraschnell geladen",     "desc": "Maximale Ladegeschwindigkeit für besseres Google-Ranking und mehr Kunden." },
+      { "num": "24h", "unit": "Support",   "title": "Immer für Sie da",         "desc": "Persönlicher Ansprechpartner. Updates und Änderungen inklusive." }
+    ]
+  },
+  "portfolio": {
+    "label": "Referenzen",
+    "h2": "Wählen Sie Ihre Branche.",
+    "p": "Sehen Sie, wie eine Website für Ihr Geschäft aussehen könnte — individuell, modern, überzeugend.",
+    "categories": [
+      { "id": "fahrschule", "icon": "🚗", "label": "Fahrschule",       "hint": "Beispiel ansehen →" },
+      { "id": "friseur",    "icon": "✂️", "label": "Friseur & Salon",  "hint": "Beispiel ansehen →" },
+      { "id": "restaurant", "icon": "🍽️", "label": "Restaurant & Café","hint": "Beispiel ansehen →" },
+      { "id": "boutique",   "icon": "🛍️", "label": "Boutique & Mode",  "hint": "Beispiel ansehen →" },
+      { "id": "fitness",    "icon": "💪", "label": "Fitnessstudio",    "hint": "Beispiel ansehen →" }
+    ],
+    "modalCta": "Für mein Geschäft anfragen →",
+    "close": "Schließen",
+    "demoBtn": "Vollständige Demo ↗"
+  },
+  "steps": {
+    "label": "So einfach geht's",
+    "h2": "In 3 Schritten online.",
+    "items": [
+      { "n": "01", "t": "Erstgespräch",        "d": "Kostenlose Beratung. Wir lernen Ihr Geschäft kennen." },
+      { "n": "02", "t": "Design & Entwicklung", "d": "Wir bauen Ihre Traumwebsite in wenigen Tagen." },
+      { "n": "03", "t": "Launch & Wachstum",    "d": "Live, optimiert und bereit für neue Kunden." }
+    ]
+  },
+  "testimonials": {
+    "label": "Kundenstimmen",
+    "h2": "Das sagen unsere Kunden."
+  },
+  "pricing": {
+    "label": "Transparente Preise",
+    "h2": "Ein unschlagbares Angebot.",
+    "p": "Keine versteckten Kosten. Volle Flexibilität.",
+    "note": "* Basierend auf jährlicher Abrechnung. Alle Preise zzgl. MwSt."
+  },
+  "faq": {
+    "label": "FAQ",
+    "h2": "Häufige Fragen.",
+    "items": [
+      { "q": "Wie lange dauert die Website-Erstellung?",       "a": "Zwischen 5 und 10 Werktagen — von Erstgespräch bis zum Live-Launch. Bei Projekten mit besonderen Anforderungen sprechen wir das vorher ab." },
+      { "q": "Gibt es versteckte Kosten?",                    "a": "Nein. Der monatliche Preis ist alles. Für neue Kunden entfällt zusätzlich die Einrichtungsgebühr vollständig." },
+      { "q": "Kann ich die Website später selbst bearbeiten?", "a": "Ja. Sie erhalten Zugang zu einem einfachen Dashboard für Texte, Bilder und Öffnungszeiten — ganz ohne technisches Vorwissen." },
+      { "q": "Was passiert, wenn ich kündigen möchte?",        "a": "30 Tage Kündigungsfrist. Kein Papierkram, keine Komplikationen. Ihre Website bleibt bis zum letzten Tag online." }
+    ]
+  },
+  "contact": {
+    "label": "Kontakt",
+    "h2": "Melden Sie sich.\nWir bauen das.",
+    "p": "Kein Risiko. Kein Vertrag. Nur eine Anfrage — und wir zeigen Ihnen, was möglich ist.",
+    "stepsTitle": "Was passiert als Nächstes?",
+    "steps": [
+      { "t": "Wir melden uns innerhalb von 24 Stunden", "d": "Kein Chatbot. Eine echte Person aus unserem Team." },
+      { "t": "Kostenloses Erstgespräch (30 Min.)",      "d": "Wir lernen Ihr Geschäft kennen und zeigen erste Ideen." },
+      { "t": "Ihr Angebot in 48 Stunden",               "d": "Individuell. Transparent. Ohne Überraschungen." }
+    ],
+    "orTitle": "Oder direkt:",
+    "nameLabel": "Name / Firma",       "namePlaceholder": "z.B. Bäckerei Schmidt...",
+    "emailLabel": "E-Mail-Adresse",    "emailPlaceholder": "beispiel@firma.de",
+    "phoneLabel": "Telefon (optional)","phonePlaceholder": "+49 xxx xxx xxx",
+    "branchLabel": "Ihre Branche",
+    "branches": ["Bitte wählen...", "Fahrschule", "Friseur & Salon", "Restaurant & Café", "Boutique & Mode", "Fitnessstudio", "Hotel & Pension", "Sonstiges"],
+    "msgLabel": "Nachricht (optional)", "msgPlaceholder": "Erzählen Sie uns von Ihrem Geschäft...",
+    "submit": "Anfrage senden",
+    "successTitle": "Anfrage erhalten!",
+    "successDesc": "Wir melden uns innerhalb von 24 Stunden. Versprochen.",
+    "errorDesc": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+    "newRequest": "Neue Anfrage"
+  },
+  "footer": "Alle Rechte vorbehalten."
+}
